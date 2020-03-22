@@ -29,3 +29,7 @@
 	$res = $connect->prepare($sql);
 	$res->execute(array($username, $password));
 	```
+
+### CSRF Attacks
++ Use token in forms and stores in session.
+	+ After every check, unset the token session.
