@@ -1,4 +1,4 @@
-`official document: write in terminal `vimtutor``
+```official document: write in terminal "vimtutor"```
 
 ### Normal Mode (default mode) `esc`
 + Deleting:
